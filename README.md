@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markomalec" alt="markomalec" /></a> </p>
 
-- 🔭 I’m currently working on [a portfolio website](markomalec.com)
+- 🔭 I’m currently working on [a portfolio website](https://markomalec.com)
 
 - 🌱 I’m currently learning **ReactJS, TypeScript, Tailwind**
 
-- 👨‍💻 All of my projects are available at [github](github)
+- 👨‍💻 All of my projects are available at [github](https://github.com/MarkoMalec)
 
 - 📫 How to reach me **lecmarko1@gmail.com**
 
-- 📄 Know about my experiences [markomalec.com](markomalec.com)
+- 📄 Know about my experiences [markomalec.com](https://markomalec.com)
 
 - ⚡ Fun fact **I think I am funny**
 
